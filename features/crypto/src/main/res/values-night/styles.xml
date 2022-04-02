@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="card_view_crypto">
+        <item name="cardElevation">0dp</item>
+        <item name="cardBackgroundColor">@color/card_item_gray</item>
+        <item name="cardCornerRadius">@dimen/_12sdp</item>
+        <item name="contentPadding">@dimen/_12sdp</item>
+    </style>
+</resources>

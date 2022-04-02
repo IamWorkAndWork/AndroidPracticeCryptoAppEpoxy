@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home_title_top">Top</string>
+    <string name="home_title_rank_crypto">rank crypto</string>
+
+    <string name="home_title_list">Buy, sell and hold crypto</string>
+    <string name="home_title_search">Search</string>
+    <string name="home_text_invite_frienss_details">You can earn $10  when you invite a friend to buy crypto.</string>
+    <string name="home_text_invite_friends">Invite your friend</string>
+
+    <string name="common_prefix">$</string>
+    <string name="common_trilion">trilion</string>
+    <string name="common_billion">billion</string>
+    <string name="common_million">million</string>
+    <string name="common_go_to_website">GO TO WEBSITE</string>
+    <string name="color_black">#000000</string>
+    <string name="text_symbol">(%s)</string>
+
+    <string name="share_invite_friends_url">https://careers.lmwn.com</string>
+    <string name="common_sorry">Sorry</string>
+    <string name="common_error_no_result_match">No result match this keyword</string>
+    <string name="mode">Night</string>
+
+</resources>

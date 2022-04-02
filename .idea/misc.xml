@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../layout/compose-model-1646534324487.xml" value="0.125" />
+        <entry key="../../../../../../../layout/compose-model-1647067534868.xml" value="0.1" />
+        <entry key="../../../../../../../layout/compose-model-1647068741357.xml" value="0.32365319865319864" />
+        <entry key="../../../../../../../layout/compose-model-1647070614848.xml" value="0.45" />
+        <entry key="../../../../../../../layout/compose-model-1647071007692.xml" value="0.41574074074074074" />
+        <entry key="../../../../../.gradle/caches/transforms-3/0b895f92363791281c3d894354363dab/transformed/material-1.5.0/res/drawable/ic_keyboard_black_24dp.xml" value="0.199" />
+        <entry key="common/core/src/main/res/drawable/background_button_transparent.xml" value="0.1625" />
+        <entry key="common/core/src/main/res/drawable/background_top_curv.xml" value="0.1625" />
+        <entry key="common/core/src/main/res/drawable/background_white_top_curv.xml" value="0.1625" />
+        <entry key="common/core/src/main/res/drawable/ic_arrow_down.xml" value="0.1995" />
+        <entry key="features/crypto/src/main/res/drawable-night/ic_placeholder.xml" value="0.2325" />
+        <entry key="features/crypto/src/main/res/drawable/ic_box_award.xml" value="0.1995" />
+        <entry key="features/crypto/src/main/res/drawable/ic_invite_friend.xml" value="0.1995" />
+        <entry key="features/crypto/src/main/res/drawable/ic_invite_friends.xml" value="0.205" />
+        <entry key="features/crypto/src/main/res/drawable/ic_placeholder.xml" value="0.2165" />
+        <entry key="features/crypto/src/main/res/drawable/ic_search.xml" value="0.1995" />
+        <entry key="features/crypto/src/main/res/drawable/ic_search_document.xml" value="0.199" />
+        <entry key="features/crypto/src/main/res/drawable/icon_box_award.xml" value="0.1995" />
+        <entry key="features/crypto/src/main/res/drawable/invite_friend_img.xml" value="0.205" />
+        <entry key="features/crypto/src/main/res/drawable/test.xml" value="0.199" />
+        <entry key="features/crypto/src/main/res/layout-land/epoxy_item_title.xml" value="0.30998248686514884" />
+        <entry key="features/crypto/src/main/res/layout-land/epoxy_item_top_3.xml" value="0.165" />
+        <entry key="features/crypto/src/main/res/layout-land/item_top_3_details.xml" value="0.125" />
+        <entry key="features/crypto/src/main/res/layout-land/test.xml" value="0.30998248686514884" />
+        <entry key="features/crypto/src/main/res/layout-sw600dp/fragment_crypto_home_fragment.xml" value="0.191796875" />
+        <entry key="features/crypto/src/main/res/layout-sw600dp/fragment_item_detail.xml" value="0.191796875" />
+        <entry key="features/crypto/src/main/res/layout-sw600dp/fragment_item_list.xml" value="0.1390625" />
+        <entry key="features/crypto/src/main/res/layout/activity_item_detail.xml" value="0.15715579710144928" />
+        <entry key="features/crypto/src/main/res/layout/epoxy_item_crypto.xml" value="0.25" />
+        <entry key="features/crypto/src/main/res/layout/epoxy_item_empty.xml" value="0.30344202898550726" />
+        <entry key="features/crypto/src/main/res/layout/epoxy_item_invite_friends.xml" value="0.335" />
+        <entry key="features/crypto/src/main/res/layout/epoxy_item_loading.xml" value="0.23177083333333334" />
+        <entry key="features/crypto/src/main/res/layout/epoxy_item_title.xml" value="0.4635416666666667" />
+        <entry key="features/crypto/src/main/res/layout/epoxy_item_top_3.xml" value="0.335" />
+        <entry key="features/crypto/src/main/res/layout/fragment_crypto_home_fragment.xml" value="0.35" />
+        <entry key="features/crypto/src/main/res/layout/fragment_item_detail.xml" value="0.335" />
+        <entry key="features/crypto/src/main/res/layout/fragment_item_list.xml" value="0.1693840579710145" />
+        <entry key="features/crypto/src/main/res/layout/item_list_content.xml" value="0.23802083333333332" />
+        <entry key="features/crypto/src/main/res/layout/item_top_3_details.xml" value="0.34769539078156314" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

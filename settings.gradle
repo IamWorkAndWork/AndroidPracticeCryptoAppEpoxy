@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "WNCryptoApp"
+include ':app'
+include ':data'
+include ':domain'
+include ':features'
+include ':common'
+include ':common:library'
+include ':common:core'
+include ':features:crypto'
